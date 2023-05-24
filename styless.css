@@ -1,0 +1,9 @@
+section {
+    background: url(/images/bland\ and\ yellow.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #000000;
+    height: 100dvh;
+    max-width: 600px;
+    margin-inline: auto;
+}
